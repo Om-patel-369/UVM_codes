@@ -6,6 +6,6 @@
 
 3.Adder UVC
 
-4. APB protocol UVC - single write and read, back2back write and read, sequnetial write followed by read.
+4.APB protocol UVC - single write and read, back2back write and read, sequnetial write followed by read.
 
 --for easy reading, testbench code kept flat - all classes in one file.--
